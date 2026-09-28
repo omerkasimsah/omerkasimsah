@@ -1,38 +1,51 @@
 # Ömer Şahin 👋
 
-**Mobile & Systems Developer**  
-Building cross-platform mobile apps, smart IoT integrations, and practical developer tools. Focused on high-signal code, offline-first reliability, and clean UX.
+**Bilgisayar Mühendisliği Öğrencisi & Yazılım Geliştirici**  
+*Computer Engineering Student & Aspiring Software Developer*
 
 ---
 
-### 🔨 What I Do
+### 🎓 Eğitim / Education
 
-- **📱 Mobile Development:** Building responsive, native-feeling apps using **Flutter** (Riverpod, GoRouter) and **React Native / Expo**.
-- **📡 IoT & Embedded Systems:** Hardware prototyping with **ESP32**, Bluetooth Low Energy (BLE), beacon broadcasting, and low-latency sensor communication.
-- **⚡ Backend & AI Integration:** Modern serverless architectures using **Supabase** (PostgreSQL, Row-Level Security), Firebase, and multimodal LLM APIs (Google Gemini Vision).
+- **İstanbul Sabahattin Zaim Üniversitesi (İZÜ)** — *Bilgisayar Mühendisliği* (2025 – Devam Ediyor)  
+  *Kurumsal Burslu Öğrenci* • **GNO:** 3.29 / 4.00
+- **Istanbul Sabahattin Zaim University (IZU)** — *B.Sc. in Computer Engineering* (2025 – Present)  
+  *Institutional Scholarship Student* • **GPA:** 3.29 / 4.00
 
 ---
 
-### 🚀 Featured Projects
+### 💡 Hakkımda & Öğrenme Yolculuğum / About Me
 
-| Project | Tech Stack | Description |
+**🇹🇷 Türkçe:**  
+Bilgisayar mühendisliği eğitimime devam ederken teoriyi gerçek projelerle pekiştirmeyi seven bir geliştiriciyim. **C ve C++** ile temel seviyede yazılım geliştirme ve algoritma deneyimine sahibim. Masaüstü otomasyonlarında **C# / WPF (.NET)** ve **SQLite**, mobil tarafta ise **Flutter** ve **React Native / Capacitor** ile pratik çözümler ve oyunlar üretiyorum. Henüz öğrenme aşamasındayım; web ve sunucu taraflarını (Node.js, gelişmiş backend mimarileri vb.) proje bazlı adım adım keşfediyor ve her gün yeni şeyler öğrenmeye odaklanıyorum.
+
+**🇬🇧 English:**  
+I'm a computer engineering student who believes the best way to master computer science is by building real, practical software. I have foundational experience in **C and C++**, and enjoy developing desktop automations with **C# & WPF (.NET)**, cross-platform mobile apps with **Flutter**, and interactive puzzle games with **JavaScript & Capacitor**. I consider myself in an active learning phase — currently expanding my skill set into web architectures and backend systems step by step.
+
+---
+
+### 🚀 Öne Çıkan Projeler / Featured Projects
+
+| Proje / Project | Teknolojiler / Stack | Açıklama / Description |
 |---|---|---|
-| [**KaloriMatik**](https://github.com/omerkasimsah/kalori-matik) | Flutter, Riverpod, Supabase, Gemini Vision | AI-powered nutrition & macro tracker. Features instant plate recognition via camera, daily nutrition targets, hydration tracking, and a coach monitoring module. |
-| [**LevelUp Life**](https://github.com/omerkasimsah/levelup-life) | React Native, Expo, AsyncStorage, Haptics | Gamified habit tracker turning daily routines into RPG quests with experience points, streaks, level progressions, and tactile sensory feedback. |
+| [**MarketPOS**](https://github.com/omerkasimsah/market-pos) | C#, WPF (.NET), SQLite, Dapper | Masaüstü barkodlu hızlı satış, stok/lot takibi, ESC/POS termal fiş basımı ve otomatik SQLite yedekleme otomasyonu. *(Desktop barcode POS & supermarket inventory system).* |
+| [**KaloriMatik**](https://github.com/omerkasimsah/kalori-matik) | Flutter, Riverpod, Supabase, Gemini AI | Yapay zeka tabak tanıma (Gemini Vision), günlük kalori/makro göstergeleri ve diyetisyen takip modülü içeren mobil uygulama. *(AI-assisted nutrition & macro tracker).* |
+| [**LevelUp Life**](https://github.com/omerkasimsah/levelup-life) | React Native, Expo, AsyncStorage | Günlük alışkanlıkları ve rutinleri RPG görevlerine dönüştüren; XP, seviye atlama ve haptik titreşim özellikli alışkanlık takipçisi. *(Gamified habit tracker with RPG progression).* |
+| [**WordTris**](https://github.com/omerkasimsah/wordtris) | JavaScript, HTML5 Canvas, Capacitor | Düşen blok mekaniğini kelime türetme ve anagram çözme ile harmanlayan hibrit mobil zeka oyunu. *(Hybrid mobile word and falling block puzzle game).* |
 
 ---
 
-### 🛠️ Toolbox
+### 🛠️ Yetkinlikler & Öğrenme Haritası / Toolbox & Learning Focus
 
-- **Languages:** Dart, JavaScript / TypeScript, C / C++, Python, SQL
-- **Mobile & Frontend:** Flutter, React Native, Expo, Tailwind CSS
-- **Backend & Database:** Supabase, PostgreSQL, Firebase, Node.js, REST APIs
-- **Hardware & Embedded:** ESP32, BLE / iBeacon, Arduino, Sensor telemetry
-- **Dev Workflow:** Git, GitHub, VS Code, Android Studio, ADB
+- **Diller & Temel / Core Languages:** C, C++ (Temel seviye / Academic foundations), C#, Dart, JavaScript, SQL
+- **Masaüstü & Otomasyon / Desktop:** WPF (.NET 4.8 / XAML), SQLite, Dapper, ESC/POS Termal Yazıcı protokolleri
+- **Mobil & Oyun / Mobile & Games:** Flutter (Riverpod), React Native (Expo), Capacitor, HTML5 Canvas
+- **Geliştirme Araçları / Tools:** Git, GitHub, Visual Studio, VS Code, Android Studio
+- **🌱 Şu Anda Öğrendiklerim / Actively Learning:** Node.js, Web Backend Mimarileri, İleri Seviye Veritabanı Optimizasyonları
 
 ---
 
-### 📬 Connect
+### 📬 İletişim / Connect
 
 - **GitHub:** [@omerkasimsah](https://github.com/omerkasimsah)
-- **Email:** [omerkasimsahin@gmail.com](mailto:omerkasimsahin@gmail.com)
+- **E-Posta:** [omerkasimsahin@gmail.com](mailto:omerkasimsahin@gmail.com)
